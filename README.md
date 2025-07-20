@@ -2,36 +2,6 @@
 
 A modern, AI-powered e-learning platform designed to deliver personalized learning experiences through video capsule analytics, adaptive quizzes, peer trends, and interactive progress visualizations.
 
----
-
-## 🚀 Features
-
-### 🧠 AI & Learning Analytics
-- **AI-Powered Study Assistant** – Ask questions and get topic-wise explanations.
-- **Smart Notes Generator** – Auto-generate notes from video lectures.
-- **Adaptive Learning Paths** – Recommend content based on user performance.
-
-### 📊 Video Interaction Analytics
-- **Most Replayed Sections** – Heatmaps for each video.
-- **Drop-off Rate Detection** – Track where users stop watching.
-- **Playback Speed Trends** – Understand how students engage.
-
-### 📚 Quiz & Performance Insights
-- **Topic-wise Strength/Weakness** – Visualize performance graphs.
-- **Time vs Accuracy Analysis** – Deeper insights into learning speed.
-- **Revision Frequency Tracker** – Encourage spaced repetition.
-
-### 👥 Peer-Based Engagement
-- **Most Asked Questions** – View common doubts from learners.
-- **Leaderboard & Peer Learning** – Track trends and top performers.
-
-### 🧩 Gamification & Habit Building
-- **Daily Challenges & Streaks** – Motivate consistent study.
-- **Collaborative Projects** – Team-based assignments & peer reviews.
-- **Real-Time Progress Heatmaps** – Immediate feedback visuals.
-
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend**: Next.js + Tailwind CSS
